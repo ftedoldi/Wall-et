@@ -5,7 +5,7 @@
 </div>
 <br />
 
-Virtual wallet manager with many functionalities
+Virtual wallet manager
 
 ## Screenshots
 
@@ -16,7 +16,7 @@ The main screen is divided into different sections:
 - A floating button to add a transaction
 
 The transaction screen contains different aspects to create the transaction.
-A part of the classic functionalities, an interesting one is:
+Apart the classic functionalities, an interesting one is:
 - Changing the currency by clicking on the ``€`` symbol (dollars, pounds and euros are supported)
 
 <div>
@@ -36,7 +36,7 @@ and modify or delete them even after creation. This functionality is made possib
 ### Charts Screen and Profile Screen
 The charts screen offers two interesting charts:
 - The first one shows the balance trend in the last six months. By clicking on the visible points, the amount of money gets shown
-- The second one shows the all time total expenses from each category
+- The second one shows the all time total expenses for each category
 
 The profile screen contains different functionalities to modify your profile:
 - Changing the profile image by clicking directly on the image
